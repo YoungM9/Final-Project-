@@ -12,7 +12,3 @@ description
 
 ## Questions to be Answered
 
-
-# Final-Project-
-
-
