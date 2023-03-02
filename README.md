@@ -1,4 +1,3 @@
-description
 # Final Project
 
 ## Group Name
